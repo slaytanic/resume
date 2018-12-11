@@ -5,7 +5,7 @@
     "picture": "https://avatars1.githubusercontent.com/u/890?s=460&v=4",
     "email": "carlos.monti@gmail.com",
     "phone": "+54 911 5057-4203",
-    "summary": "I'm a software engineer that is very comfortable working across the entire stack down from the network and operating system layers up to what our users see on their screens. I've got experience developing software, maintaining the platforms it runs on, leading teams and architecting new solutions. I thouroughly enjoy learning new technologies, automate everything and test my code",
+    "summary": "I'm a software engineer that is very comfortable working across the entire stack down from the network and operating system layers up to what our users see on their screens. I've got experience developing software, maintaining the platforms it runs on, leading teams and architecting new solutions. I thouroughly enjoy learning new technologies, love to automate everything and find really rewarding when my code passes all tests",
     "location": {
       "city": "Ciudad Autónoma de Buenos Aires",
       "countryCode": "AR",
@@ -19,6 +19,7 @@
       },
       {
         "network": "LinkedIn",
+        "username": "Carlos Eduardo Monti",
         "url": "https://www.linkedin.com/in/carlos-monti-34a22284/"
       }
     ]
@@ -98,7 +99,7 @@
   "languages": [
     {
       "language": "Spanish",
-      "fluency": "Native"
+      "fluency": "Native Speaker"
     },
     {
       "language": "English",
